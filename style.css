@@ -1,0 +1,23 @@
+body{
+    max-width: 1120px;
+    margin: 50px auto;
+}
+
+.but {
+    max-width: 70%;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.btn {
+    width: 100px;
+    height: 40px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
+
+.title {
+    text-align: center;
+}
